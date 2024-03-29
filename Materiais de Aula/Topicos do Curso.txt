@@ -1,0 +1,84 @@
+
+Link do grupo no WhatsAppURL
+Ementa do cursoArquivo
+Horários de atendimentoArquivo
+Link para o atendimento remotoURL
+Introdução ao javaScript
+Aula 01 - Instalação do Node.js e do Visual Studio CodePágina
+link do download do node.js
+
+https://nodejs.org/en/download/current
+
+link do download do visual studio code
+
+https://code.visualstudio.com/download
+
+Extensões do Visual Studio Code recomendadasPágina
+Aula 2 - Variáveis, Const e let, Entrada / Saida de dadosPágina
+Aula 3 - Tipo de dadosPágina
+Aula 4 - Operadores aritméticos e de incrementoPágina
+Aula 5 - MathPágina
+Aula 6 - Métodos de String e NumberPágina
+Aula 7 - Template stringPágina
+Aula 8 - Entrada de dados pelo tecladoPágina
+Aula 8.1 - Correção da bibliotecaPágina
+Olá pessoal, na aula 8 eu errei o nome da biblioteca, o nome certo e prompt-sync
+
+no caso eu importei  a biblioteca certa por isso meu código funcionou
+
+para instalar a biblioteca certa na maquina de vocês seria esse comando: npm install --global prompt-sync
+
+se você instalou a biblioteca e mesmo assim encontra o seguinte erro:  Error: Cannot find module 'prompt-sync'
+
+e necessário utilizar o seguinte comando: npm link prompt-sync
+
+Lista 1Tarefa
+Enviado 4 de dezembro de 2023
+ Feedback disponível
+Lógica de programação
+Aula 9 - Operadores de comparaçãoPágina
+Aula 10 - Operadores logicosPágina
+Aula 11 - Desvios condicionalPágina
+Aula 12 - Objeto DatePágina
+Aula 13 - Swith casePágina
+Aula 14 - Escopo global / localPágina
+Lista 2Tarefa
+Enviado 18 de dezembro de 2023
+ Feedback disponível
+Estrutura de repetição e vetor
+Aula 15 - Laço forPágina
+Aula 16 - Laço WhilePágina
+Aula 17 - Laço Do WhilePágina
+Aula 18 - VetorPágina
+Aula 19 - filterPágina
+Aula 20 - For ofPágina
+Aula 21 - mapPágina
+Aula 22 - reducePágina
+E recomendado para melhor entendimento dos métodos filter, map e reduce a visualização do modulo de funções.
+
+Lista 03Tarefa
+Enviado 28 de janeiro de 2024
+ Feedback disponível
+Funções
+Aula 23 - Funções ( Parametros, argumentos e retorno)Página
+Aula 24 - Funções anonimasPágina
+Aula 25 - Revisando filer, map e reducePágina
+Aula 26 - Continuação do exemplo, sem utilizar filter, map e reducePágina
+Códigos utilizados durante o modulo de funçõesURL
+Lista 04Tarefa
+Enviado 28 de janeiro de 2024
+ Feedback disponível
+Programação Orientada a Objetos
+Aula 27 - Objeto LiteralPágina
+Aula 28 - Classes e objetosPágina
+Aula 29 - HerançaPágina
+Aula 29 - Métodos estáticos vs métodos de instânciaPágina
+Aula 30 - Diferença entre os métodos do array, filter e findPágina
+Aula 31 - Import e ExportPágina
+Lista 05Tarefa
+Enviado 29 de março de 2024
+Códigos utilizando durante o moduloArquivo
+Programação assíncrona
+Aula 32 - Promises , async / awaitPágina
+Aula 33 - Chamada de API com AXIOSPágina
+Códigos utilizados durante o moduloArquivo
